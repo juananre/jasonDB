@@ -1,19 +1,15 @@
 {
-  "ususer": 
-  [ 
+  "users": [
     {
-      "ID": 1,
+      "id": 1,
       "username": "Camigonorrea"
     },
-
     {
-      "ID": 2,
+      "id": 2,
       "username": "PanchuSIDA"
-    
     },
-
     {
-      "ID": 3,
+      "id": 3,
       "username": "Juanfer"
     }
   ]
