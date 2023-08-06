@@ -1,16 +1,19 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "username": "Camigonorrea"
-    },
-    {
-      "id": 2,
-      "username": "PanchuSIDA"
-    },
-    {
-      "id": 3,
-      "username": "Juanfer"
-    }
-  ]
+  "ususer":{
+    "usuario":[
+      {
+        "id": 1,
+        "username": "Camigonorrea"
+      },
+      {
+        "id": 2,
+        "username": "PanchuSIDA"
+      },
+      {
+        "id": 3,
+        "username": "Juanfer"
+      }
+    ]
+  } 
+ 
 }
