@@ -1,6 +1,6 @@
 {
-  "ususer":{
-    "usuario":[
+  "user": {
+    "usuario": [
       {
         "id": 1,
         "username": "Camigonorrea"
@@ -14,6 +14,5 @@
         "username": "Juanfer"
       }
     ]
-  } 
- 
+  }
 }
