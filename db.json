@@ -1,6 +1,5 @@
 {
-  "user": {
-    "usuario": [
+  "user":[
       {
         "id": 1,
         "username": "Camigonorrea"
