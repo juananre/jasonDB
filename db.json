@@ -1,5 +1,6 @@
 {
-  "user": [
+  "user": 
+  [
     {
       "id": 1,
       "username": "Camigonorrea",
@@ -17,4 +18,3 @@
     }
   ]
 }
-
